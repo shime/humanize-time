@@ -1,0 +1,32 @@
+{
+  "name": "humanize-time",
+  "version": "0.0.1",
+  "description": "Converts miliseconds to human-readable format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js | node_modules/.bin/tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shime/humanize-time"
+  },
+  "keywords": [
+    "humanize",
+    "miliseconds",
+    "time",
+    "seconds",
+    "hours",
+    "minutes",
+    "minimalistic"
+  ],
+  "author": "Hrvoje Simic <shime.ferovac@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shime/humanize-time/issues"
+  },
+  "homepage": "https://github.com/shime/humanize-time",
+  "devDependencies": {
+    "tap-spec": "^0.2.1",
+    "tape": "^2.14.0"
+  }
+}

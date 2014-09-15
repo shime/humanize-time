@@ -1,6 +1,6 @@
 {
   "name": "humanize-time",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts miliseconds to human-readable format.",
   "main": "index.js",
   "scripts": {

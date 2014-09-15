@@ -6,11 +6,11 @@ module.exports = function(ms){
 
   var buff = ""
   if (hrs > 0){
-    buff = buff.concat(hrs + " h, ")
+    buff = buff.concat(hrs + "h, ")
   }
   if (mins > 0){
-    buff = buff.concat(mins % 60 + " m, ")
+    buff = buff.concat(mins % 60 + "m, ")
   }
-  buff = buff.concat(secs % 60 + " s")
+  buff = buff.concat(secs % 60 + "s")
   return buff
 }

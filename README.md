@@ -1,6 +1,6 @@
 ## Humanize time
 
-[![Build Status](https://travis-ci.org/shime/humanize-time.svg?branch=master)](https://travis-ci.org/shime/humanize-time)
+[![Build Status](https://travis-ci.org/shime/humanize-time.svg?branch=master)](https://travis-ci.org/shime/humanize-time) [![Downloads](https://img.shields.io/npm/dt/humanize-time.svg)](https://npmjs.org/package/humanize-time)
 
 Converts miliseconds to human-readable format.
 

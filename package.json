@@ -25,8 +25,9 @@
     "url": "https://github.com/shime/humanize-time/issues"
   },
   "homepage": "https://github.com/shime/humanize-time",
-  "devDependencies": {
-    "tap-spec": "^0.2.1",
-    "tape": "^2.14.0"
+  "devDependencies": {},
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.3.2"
   }
 }

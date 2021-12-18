@@ -4,7 +4,7 @@
   "description": "Converts miliseconds to human-readable format.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js | node_modules/.bin/tap-spec"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -25,9 +25,8 @@
     "url": "https://github.com/shime/humanize-time/issues"
   },
   "homepage": "https://github.com/shime/humanize-time",
-  "devDependencies": {},
-  "dependencies": {
-    "tap-spec": "^5.0.0",
-    "tape": "^5.3.2"
-  }
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {}
 }
